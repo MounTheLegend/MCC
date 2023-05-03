@@ -22,7 +22,7 @@ a:hover, a:active {
 </head>
 <body>
 
-  <a href="bitcoin.html" target="_self">Bitcoin</a>
+  <a href="bitcoin.php" target="_self">Bitcoin</a>
   <a href="ethereum.html" target="_self">Ethereum</a>
   <a href="maker.html" target="_self">Maker</a>
   <a href="bitcoin-cash.html" target="_self">Bitcoin-cash</a>
